@@ -2,6 +2,14 @@
 
 A modern, full-stack e-commerce platform built with React, Node.js, and MongoDB. This application provides a complete shopping experience with user authentication, product management, shopping cart, order processing, and payment integration.
 
+## 🌐 Live Demo
+
+- **Customer App**: `https://forever-frontend-lilac-eight.vercel.app`  
+- **Admin Panel**: `https://forever-admin-iota-ten.vercel.app`  
+- **Backend API** (optional): `https://e-commerce-app-backend-beta-six.vercel.app`
+
+_Replace the above placeholder links with your actual deployed URLs (e.g., Vercel, Render, etc.)._
+
 ## ✨ Features
 
 ### Customer Features
